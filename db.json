@@ -5,17 +5,19 @@
   "courses":[
     {
       "name": "ECE110",
-      "id": 1
+      "id": 1,
+      "content":["item1","item2"]
     },
     {
       "name": "ECE243",
-      "id": 2
+      "id": 2,
+      "content":["item3","item4"]
+      
     },
     {
       "name": "ECE297",
-      "id": 3
+      "id": 3,
+      "content":["item5","item6"]
     }
-
-
   ]
 }
